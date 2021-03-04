@@ -1,6 +1,6 @@
-﻿using TestApp.Test1.Models;
+﻿using TestApp.Models;
 
-namespace TestApp.Test1
+namespace TestApp
 {
     class Program
     {
